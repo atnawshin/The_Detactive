@@ -1,0 +1,134 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.color-ivory {
+    color: darkgoldenrod;
+}
+
+.flexable-display {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    margin: 10%;
+    padding-left: 10%;
+}
+
+#scroll-down {
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.first-section-style {
+    font-family: 'Times New Roman';
+}
+
+#first-paragraph {
+    padding-bottom: 12px;
+}
+
+.link-button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.quater-width {
+    width: 30%;
+    padding-left: 2%;
+}
+
+.quater-width img {
+    width: 50%;
+}
+
+.background {
+    border-radius: 5%;
+    padding: 2%;
+    margin: 2%;
+}
+
+#mission-backgrond {
+    background-color: lightblue;
+}
+
+#vission-background {
+    background-color: lightgray;
+}
+
+#goal-background {
+    background-color: lightcyan;
+}
+
+#fearless-background {
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    background-position-x: 15%;
+    background-position-y: 50%;
+}
+
+#life-with-watson-background {
+    background-image: url(images/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 35%;
+    background-position-x: 85%;
+    background-position-y: 30%;
+}
+
+.about-background {
+    background-color: #E3DFFD;
+    color: black;
+    padding: 1%;
+}
+
+.about {
+    width: 40%;
+    padding-left: 10px;
+}
+
+.about-items {
+    width: 80%;
+    padding: 1%;
+    text-align: center;
+}
+
+#watch-here {
+    text-decoration: none;
+    color: brown;
+    text-align: center;
+    margin: 10px;
+    font-weight: 700;
+}
+
+footer {
+    padding: 0.5%;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+footer h1 {
+    font-family: cursive;
+}
